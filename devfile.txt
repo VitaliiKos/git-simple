@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Tamtik
 Hello firdt change
+=======
+Hello Tamtik my change
+>>>>>>> 4e0eb10 (Change file)
